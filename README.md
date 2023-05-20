@@ -7,5 +7,5 @@
 ##
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [Flashcard](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
+| ![flash-card (1)](https://github.com/Fuuko209/Portfolio-Guide/assets/103474817/60554c9f-4403-45c0-9ef8-9f2eee864386)[Flashcard](https://github.com/Fuuko209/CaseStudy_PYF2302R1) | May 2023 | Python, Tkinter, Pandas | The Quiz Flashcard application in Python helps in reviewing knowledge with random questions and requires correct answers before moving on. Importing questions from an Excel file allows for easy management and tracking of learning progress. |
+
