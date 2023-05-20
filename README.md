@@ -1,6 +1,6 @@
 # 🗺 Portfolio-Guide
 ## Table of Contents
-- [Python](#how-to-create-your-profile)
+- [Python](#python)
 - [SQL](#how-to-customize-markdown-files)
 - [Power BI](#how-to-create-new-repository)
 - [Self-studied knowledge]
