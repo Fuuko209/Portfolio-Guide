@@ -3,7 +3,7 @@
 - [Python](#python)
 - [SQL](#SQL)
 - [Power BI](#powerBI)
-- [Self studied knowledge](self-studied-knowledge)
+- [Self study](self-study)
 
 # Python
 | Project Link | Completion Date | Tools | Project Description | 
@@ -13,5 +13,5 @@
 
 # Power BI
 
-# Self studied knowledge
+# Self study
 [git@github.com:Fuuko209/self-studied.git](https://github.com/Fuuko209/self-studied.git)
