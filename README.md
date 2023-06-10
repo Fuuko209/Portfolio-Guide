@@ -2,8 +2,8 @@
 ## Table of Contents
 - [Python](#python)
 - [SQL](#SQL)
-- [Power BI](#PowerBI)
-- [Self-studied knowledge](Self-studied-knowledge)
+- [Power BI](#powerBI)
+- [Self studied knowledge](self-studied-knowledge)
 
 # Python
 | Project Link | Completion Date | Tools | Project Description | 
@@ -13,5 +13,5 @@
 
 # Power BI
 
-# Self-studied knowledge
+# Self studied knowledge
 [git@github.com:Fuuko209/self-studied.git](https://github.com/Fuuko209/self-studied.git)
