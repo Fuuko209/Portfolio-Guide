@@ -1,9 +1,9 @@
 # 🗺 Portfolio-Guide
 ## Table of Contents
 - [Python](#python)
-- [SQL](#how-to-customize-markdown-files)
-- [Power BI](#how-to-create-new-repository)
-- [Self-studied knowledge]
+- [SQL](#SQL)
+- [Power BI](#PowerBI)
+- [Self-studied knowledge](Self-studied-knowledge)
 
 # Python
 | Project Link | Completion Date | Tools | Project Description | 
@@ -14,3 +14,4 @@
 # Power BI
 
 # Self-studied knowledge
+[git@github.com:Fuuko209/self-studied.git](https://github.com/Fuuko209/self-studied.git)
